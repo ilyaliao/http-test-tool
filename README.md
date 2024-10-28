@@ -72,4 +72,4 @@ Send a request to the IP address and port number, then you will see the request 
 
 ## 📄 License
 
-[MIT](./LICENSE) &copy; 2024-PRESENT CofCat
+[MIT](./LICENSE) &copy; 2024-PRESENT Ilya Liao
